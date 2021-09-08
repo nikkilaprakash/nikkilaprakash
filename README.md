@@ -1,5 +1,4 @@
 ### Hey, I'm Nikkila 👋
-![NikkilaPrakash Banner](banner.png)
 <h3>I'm a Student, Developer and Trader!!</h3>
 
 - I just finished a course on AWS and Azure fundamentals :sparkles:
