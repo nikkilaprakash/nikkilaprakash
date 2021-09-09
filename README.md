@@ -1,8 +1,6 @@
 ### Hey, I'm Nikkila 👋
 <h3>I'm a Student, Developer and Trader!!</h3>
 
-- I just finished a course on AWS and Azure fundamentals :sparkles:
-- I’m currently learning about AWS, GCP and Azure services 
 - I’m looking to contribute more to Open Source projects 🌱
 - <b>2021-22 Goals:</b> Work on more Fullstack projects and Competitive Coding
 - ⚡ <b>Fun fact:</b> I'm an NFT enthusiast and collector! 
