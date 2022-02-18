@@ -1,9 +1,6 @@
 ### Hey, I'm Nikkila 👋
 <h3>I'm a Student, Developer and Trader!!</h3>
 
-- I’m looking to contribute more to Open Source projects 🌱
-- <b>2021-22 Goals:</b> Work on more Fullstack projects and Competitive Coding
-- ⚡ <b>Fun fact:</b> I'm an NFT enthusiast and collector! 
 
 ### Connect with me:
 
