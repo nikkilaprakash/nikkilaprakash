@@ -1,5 +1,4 @@
 ### Hey, I'm Nikkila 👋
-<h3>I'm a Student, Developer and Trader!!</h3>
 
 
 ### Connect with me:
