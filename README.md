@@ -1,8 +1,7 @@
 # Hi, I'm Nikkila Prakash 👋
 
 🎓 MSc Computer Science student at the **University of Edinburgh**  
-💼 Software engineer with 3 years at **PayPal**, building backend and AI systems used by 400M+ people  
-📍 Edinburgh, UK (willing to relocate)
+💼 Software engineer with 3 years at **PayPal**, building backend and AI systems used by 400M+ people 
 
 ---
 
