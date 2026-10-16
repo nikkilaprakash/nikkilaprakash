@@ -9,7 +9,7 @@
 
 - 🌱 Exploring **AI agents**, **distributed systems** and **GPU computing**
 - 📄 Filed a **patent** on an autonomous multi-agent system for production errors, and published a first-author **IEEE** paper
-- 🏆 Won PayPal's **Code.AI Hackathon** with a multi-agent privacy compliance system
+- 🏆 Won **Code.AI Hackathon** with a multi-agent privacy compliance system
 
 ---
 
